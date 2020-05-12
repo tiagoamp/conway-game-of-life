@@ -1,15 +1,19 @@
-# conway-game-of-life
-Conway's Game of Life implementation
+# Conway's Game of Life implementation
 
-_W.I.P. ..._
 
-[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+_**W.I.P.** ..._
 
-### WEB directory
+
+[Conway's Game of Life description](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+
+#### Web directory
 Front-end page (plain html/css/js)
 
-### Java directory
+#### Java directory
 Back-end implementation in Java
 
-### Javascript directory
+#### Javascript directory
 Back-end implementation in Javascript
+
+<a href="screenshot.png" />
