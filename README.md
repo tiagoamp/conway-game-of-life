@@ -15,3 +15,6 @@ Back-end implementation in Java
 
 #### Javascript directory
 Back-end implementation in Javascript
+
+
+<img src="https://github.com/tiagoamp/conway-game-of-life/blob/development/screenshot.png" />
