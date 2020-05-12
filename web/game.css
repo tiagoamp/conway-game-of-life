@@ -1,0 +1,28 @@
+body {
+    background-color: gainsboro;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: cadetblue;
+}
+
+table td {
+    width: 20px;
+    height: 20px;
+    
+}
+
+.alive {
+    background-color: slategrey;
+}
+
+.dead {
+    background-color: ghostwhite;
+}
